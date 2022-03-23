@@ -3,7 +3,7 @@
 My name is Myles Deslippe and I am a Software Engineering student at the University of Windsor.
 
 # 💻Technologies and Tools💻
-## Operating Systems
+### Operating Systems
 ![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FF0000)
 ![](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=FF0000)
 
