@@ -38,11 +38,12 @@ My name is Myles Deslippe and I am a Software Engineering student at the Univers
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=for-the-badge&logo=VisualStudioCode&logoColor=white&color=FF0000)
 ![](https://img.shields.io/badge/Eclipse-informational?style=for-the-badge&logo=Eclipse&logoColor=white&color=FF0000)
 
-# 📈GitHub Statistics📈
+<!-- THIS API IS NOT WORKING RIGHT NOW, WILL ENABLE IT IN THE FUTURE WHEN IT IS FIXED -->
+<!-- # 📈GitHub Statistics📈
 
 <a href="https://github.com/mdeslippe/mdeslippe">
 <img align="center" style="height: 223px;" src="https://github-readme-stats.vercel.app/api?username=mdeslippe&title_color=FF0000&bg_color=151515&text_color=fff&icon_color=ccc&show_icons=true" alt="GitHub Statistics">
 </a>
 <a href="https://github.com/mdeslippe/mdeslippe">
 <img align="center" style="height: 223px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdeslippe&title_color=FF0000&bg_color=151515&text_color=fff&icon_color=ccc&langs_count=6" alt="Language Usage Statistics">
-</a>
+</a> -->
