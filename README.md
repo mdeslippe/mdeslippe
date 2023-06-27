@@ -37,6 +37,7 @@ My name is Myles Deslippe and I am a Software Engineering student at the Univers
 
 ### Editors
 
+![](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=FF0000)
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=for-the-badge&logo=VisualStudio&logoColor=white&color=FF0000)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=for-the-badge&logo=VisualStudioCode&logoColor=white&color=FF0000)
 ![](https://img.shields.io/badge/Intellij-informational?style=for-the-badge&logo=intellijidea&logoColor=white&color=FF0000)
